@@ -24,6 +24,9 @@ function App() {
                       {cleaned.split('\n').map(e => <p key={e}>{e}</p>)}
                       </div>
                 </form>
+                  <span className="text-gray-500 text-xs">
+                    made with &lt;3 by erdostom
+                    </span>
                   </div>
   );
 }
