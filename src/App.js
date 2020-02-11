@@ -46,4 +46,4 @@ function CopyIcon() {
     </svg>
 }
 
-export default App;
+export default App
